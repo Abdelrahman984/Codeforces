@@ -1,4 +1,25 @@
 {
+  "CF221437485": {
+    "contest_id": 489,
+    "language": "GNU C++17",
+    "path": "codeforces/489/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "BerSU Ball",
+    "problem_url": "https://codeforces.com/contest/489/problem/B",
+    "submission_id": "CF221437485",
+    "submission_url": "https://codeforces.com/contest/489/submission/221437485",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graph matchings",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Sep/01/2023 14:25"
+  },
   "CF221537394": {
     "contest_id": 279,
     "language": "GNU C++17",
