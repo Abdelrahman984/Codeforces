@@ -5,10 +5,11 @@ Submissions
 ## Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
-{profile_placeholder}
+* Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/rafeeq220044.svg)](https://codeforces.com/profile/rafeeq220044)
+
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-{submission_placeholder}
+1 | [A - Watermelon](https://codeforces.com/contest/4/problem/A) | [GNU C++17](./codeforces/4/A.cpp) | `brute force` `math` `*800` | Nov/28/2023 17:27 | 
